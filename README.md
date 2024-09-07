@@ -54,7 +54,7 @@ Column 24: Label (0 for the null class)
 
 *Units: Acceleration (m/s^2), gyroscope (deg/s), magnetic field (local), ecg (mV)
 
-REFERENCE 
+REFERENCE:  
 Banos, O., Garcia, R., Holgado-Terriza, J.A., Damas, M., Pomares, H., Rojas, I., Saez, A., Villalonga, C.: 
 mHealthDroid: a novel framework for agile development of mobile health applications. 
 In: Proceedings of the 6th International Work-conference on Ambient Assisted Living an Active Ageing (IWAAL 2014), Belfast, United Kingdom, December 2-5 (2014)
