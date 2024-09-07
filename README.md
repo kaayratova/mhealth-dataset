@@ -26,7 +26,7 @@ L11: Running (1 min)
 L12: Jump front & back (20x)  
 NOTE: In brackets are the number of repetitions (Nx) or the duration of the exercises (min).  
 
-FEATURES 
+FEATURES  
 Column 1: acceleration from the chest sensor (X axis)  
 Column 2: acceleration from the chest sensor (Y axis)  
 Column 3: acceleration from the chest sensor (Z axis)  
