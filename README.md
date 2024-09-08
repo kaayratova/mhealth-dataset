@@ -10,7 +10,7 @@ DATASET SUMMARY:
 #Sensor devices: 3  
 #Subjects: 10  
 
-ACTIVITY SET  
+ACTIVITY SET (CLASSES)
 The activity set is listed in the following:  
 L1: Standing still (1 min)   
 L2: Sitting and relaxing (1 min)   
